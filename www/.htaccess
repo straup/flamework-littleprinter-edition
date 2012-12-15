@@ -1,0 +1,2 @@
+RewriteRule  ^sample/?$			littleprinter_edition.php?sample=1&%{QUERY_STRING} [L]
+RewriteRule  ^edition/?$		littleprinter_edition.php?%{QUERY_STRING}

@@ -1,0 +1,7 @@
+{include file="inc_littleprinter_head.txt"}
+
+<div id="littleprinter">
+
+</div>
+
+{include file="inc_littleprinter_foot.txt"}
