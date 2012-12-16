@@ -1,0 +1,13 @@
+{literal}
+{
+  "owner_email":"littleprinter@brooklynintegers.com",
+  "publication_api_version":"1.0",
+  "name": "Brooklyn Integers",
+  "description": "Hella beautiful artisanal integers for your Little Printer",
+  "delivered_on":"every Saturday",
+  "external_configuration": false,
+  "send_timezone_info": false,
+  "send_delivery_count": false,
+  "config": {}
+}
+{/literal}

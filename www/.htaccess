@@ -1,2 +1,4 @@
 RewriteRule  ^sample/?$			littleprinter_edition.php?sample=1&%{QUERY_STRING} [L]
-RewriteRule  ^edition/?$		littleprinter_edition.php?%{QUERY_STRING}
+RewriteRule  ^edition/?$		littleprinter_edition.php?%{QUERY_STRING} [L]
+RewriteRule  ^icon.png$			images/littleprinter_icon.png [L]
+RewriteRule  ^meta.json$		littleprinter_meta.php [L]
