@@ -1,0 +1,3 @@
+<?php
+
+	$GLOBALS['cfg']['enable_feature_littleprinter'] = 1;
