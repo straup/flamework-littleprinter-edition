@@ -1,10 +1,10 @@
 {literal}
 {
-  "owner_email":"littleprinter@brooklynintegers.com",
+  "owner_email":"info@exmaple.com",
   "publication_api_version":"1.0",
-  "name": "Brooklyn Integers",
-  "description": "Hella beautiful artisanal integers for your Little Printer",
-  "delivered_on":"every Saturday",
+  "name": "Little Printer Edition",
+  "description": "IT'S FULL OF HAPPY FACES",
+  "delivered_on":"every day",
   "external_configuration": false,
   "send_timezone_info": false,
   "send_delivery_count": false,

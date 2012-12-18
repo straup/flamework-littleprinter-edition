@@ -22,10 +22,10 @@ echo "copying templates to ${PROJECT}"
 cp ${LITTLEPRINTER}/www/templates/*.txt ${PROJECT}/www/templates/
 
 echo "copying stylesheets to ${PROJECT}"
-cp ${LITTLEPRINTER}/www/css/*.php ${PROJECT}/www/css/
+cp ${LITTLEPRINTER}/www/css/*.css ${PROJECT}/www/css/
 
 echo "copying images to ${PROJECT}"
-cp ${LITTLEPRINTER}/www/images/*.php ${PROJECT}/www/images/
+cp ${LITTLEPRINTER}/www/images/*.png ${PROJECT}/www/images/
 
 echo "setup (mostly) complete"
 echo "you will still need to update your config file manually"
